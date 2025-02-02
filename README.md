@@ -28,3 +28,15 @@
 - Popa Silviu 342
 - Bejenaru Andrada 344
 - Dobromirescu Mihaela 342
+
+## 🎯 Product Vision  
+**PENTRU** persoanele active, cum ar fi studenții, freelancerii și profesioniștii,  
+**CARE** au nevoie de o modalitate eficientă de a-și organiza evenimentele zilnice și sarcinile,  
+**PlanWise** este o soluție integrată și ușor de utilizat,  
+**CE** le permite utilizatorilor să gestioneze atât evenimentele programate, cât și sarcinile asociate într-un singur loc.  
+**SPRE DEOSEBIRE** de alte aplicații de calendar care pot părea copleșitoare din cauza funcționalităților excesive,  
+**PRODUSUL NOSTRU** echilibrează simplitatea și funcționalitatea, oferind o experiență fluidă.  
+
+Utilizatorii pot **crea și urmări evenimente**, **atașa sarcini specifice** și **gestiona programul** fără a avea nevoie de mai multe aplicații. Calendarul nostru suportă **vizualizări zilnice, săptămânale și lunare**, urmărirea stării sarcinilor și memento-uri configurabile, asigurând o gestionare eficientă a responsabilităților profesionale și personale.  
+
+---
