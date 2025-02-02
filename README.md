@@ -22,9 +22,9 @@
 ### 6️⃣ Accesibilitate mobilă
 - Utilizatorii trebuie să poată adăuga și edita evenimente direct de pe telefon.
 
-- ## 👥 Membrii Echipei
--Pincu Iulia 342
--Negraru Celestin 342
--Popa Silviu 342
--Bejenaru Andrada 344
--Dobromirescu Mihaela 342*
+- ### 👥 Membrii Echipei
+- Pincu Iulia 342
+- Negraru Celestin 342
+- Popa Silviu 342
+- Bejenaru Andrada 344
+- Dobromirescu Mihaela 342
